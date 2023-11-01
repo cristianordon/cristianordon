@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianordon&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias já utilizadas como acadêmico
+## Tecnologias já utilizadas enquanto acadêmico
 <div style="display: inline block"><br/>
   <img align="center" alt"c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
